@@ -5,7 +5,7 @@
 ## Overview
 The "Piano" project, completed as part of the FreeCodeCamp.org Responsive Web Design course, delves into creating a digital piano interface. This project spotlights the utilization of pseudo-elements, and CSS media queries to craft an interactive and responsive digital piano experience.
 
-## Features
+## Learning Focus
 - **Pseudo-elements**: Incorporates CSS pseudo-elements to add decorative or interactive elements to specific parts of the piano.
 - **CSS Media Queries**: Implements CSS media queries to ensure the piano interface's responsiveness across various devices and screen sizes.
 
